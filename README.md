@@ -3,6 +3,7 @@
 🔍 Currently exploring SQL, Excel, and data visualization tools like Tableau  
  
 💼 Projects
+
 Here are some of the projects I've worked on:
 - 📈 
 - 🧹 
